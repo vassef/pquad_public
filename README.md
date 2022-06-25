@@ -1,6 +1,6 @@
 # pquad_public
 [PQuAD](https://arxiv.org/abs/2202.06219) is a crowdsourced reading comprehension dataset on Persian Wikipedia articles. 
-Since the implementation of this dataset hasn't been yet implemented in the hugging face, I have prepared the essential setups in the [hugging face](https://huggingface.co/datasets/Shayanvsf/pquad_public) to enable using this dataset using the load_dataset library :
+Since the implementation of this dataset hasn't been yet implemented in the hugging face, I have prepared the essential setups in the [hugging face](https://huggingface.co/datasets/Shayanvsf/pquad_public) to enable using this dataset by importing load_dataset library :
 
 **from datasets import load_dataset**
 
